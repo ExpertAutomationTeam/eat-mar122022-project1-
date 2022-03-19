@@ -1,3 +1,5 @@
+package operators;
+
 public class Operators {
     public static void main(String[] args) {
 
@@ -14,8 +16,8 @@ public class Operators {
         System.out.println(number1+number2);
 
         //+ sign in String gives us concatenation
-        String str1 = "Hello";
-        String str2 = "World";
+        String str1 = "getstarted.HelloJava";
+        String str2 = "classobjectmethod.World";
         int number = 10;
         System.out.println(str1+" "+str2);
         System.out.println(str1+number);

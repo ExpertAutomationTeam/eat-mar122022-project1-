@@ -1,4 +1,6 @@
-public class Array {
+package datatype.nonprimitive;
+
+public class UseArray {
     public static void main(String[] args) {
 
         //array is a variable that can hold multiple value: arrayType[] arrayName = {value1, value2, value3};
