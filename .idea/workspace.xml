@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6d4aa6-e4da-48a3-91d9-6fe4dc354712" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/classobjectconstructor/House.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/classobjectconstructor/TestHouse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/classobjectmethod/Hello.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/classobjectmethod/World.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/conditions/ConditionStatements.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/datatype/primitive/Variables.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/keywords/accessmodifiers/Source.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/keywords/accessmodifiers/UseClassProperties.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/keywords/breakcontinuekws/BreakKw.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/keywords/breakcontinuekws/ContinueKw.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/loops/ForEachLoop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/loops/ForLoop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/loops/WhileLoop.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/extra/UseScanner.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/Array.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/Casting.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/Hello.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/Operators.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/WorkWithStrings.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/World.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" afterPath="$PROJECT_DIR$/src/datatype/nonprimitive/UseArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/Casting.java" afterPath="$PROJECT_DIR$/src/datatype/primitive/Casting.java" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" afterPath="$PROJECT_DIR$/src/getstarted/HelloJava.java" />
-      <change beforePath="$PROJECT_DIR$/src/Operators.java" afterPath="$PROJECT_DIR$/src/operators/Operators.java" />
-      <change beforePath="$PROJECT_DIR$/src/WorkWithStrings.java" afterPath="$PROJECT_DIR$/src/datatype/nonprimitive/UseString.java" />
-      <change beforePath="$PROJECT_DIR$/src/World.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/classobjectconstructor/House.class" afterPath="$PROJECT_DIR$/out/production/Mar122022Project1/classobjectconstructor/House.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mar122022Project1/classobjectconstructor/TestHouse.class" afterPath="$PROJECT_DIR$/out/production/Mar122022Project1/classobjectconstructor/TestHouse.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,17 +20,17 @@
       <file leaf-file-name="House.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classobjectconstructor/House.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="22">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestHouse.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UseScanner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/extra/UseScanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestHouse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classobjectconstructor/TestHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="266">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -143,16 +130,15 @@
         <option value="$PROJECT_DIR$/src/keywords/accessmodifiers/UseClassProperties.java" />
         <option value="$PROJECT_DIR$/src/classobjectmethod/World.java" />
         <option value="$PROJECT_DIR$/src/classobjectmethod/Hello.java" />
-        <option value="$PROJECT_DIR$/src/classobjectconstructor/House.java" />
         <option value="$PROJECT_DIR$/src/classobjectconstructor/TestHouse.java" />
+        <option value="$PROJECT_DIR$/src/classobjectconstructor/House.java" />
+        <option value="$PROJECT_DIR$/src/extra/UseScanner.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="15" />
-    <option name="y" value="46" />
     <option name="width" value="1920" />
-    <option name="height" value="991" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -203,18 +189,6 @@
               <item name="Mar122022Project1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Mar122022Project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mar122022Project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classobjectconstructor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mar122022Project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mar122022Project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classobjectmethod" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -241,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestHouse">
+  <component name="RunManager" selected="Application.UseScanner">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -329,9 +303,14 @@
       <module name="Mar122022Project1" />
       <envs />
     </configuration>
-    <configuration name="UseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="datatype.nonprimitive.UseArray" />
+    <configuration name="UseScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="extra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="extra.UseScanner" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -418,19 +397,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.UseArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ConditionStatements" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Loops" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Hello" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestHouse" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ConditionStatements" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Loops" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Hello" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestHouse" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UseScanner" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestHouse" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Hello" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HelloJava" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Loops" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ConditionStatements" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UseScanner" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestHouse" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Hello" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HelloJava" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +431,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -462,9 +440,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30983117" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30983117" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19101124" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35451838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18743344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -690,14 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classobjectmethod/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classobjectmethod/World.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -706,27 +676,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classobjectconstructor/TestHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classobjectconstructor/House.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="22">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding>
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classobjectconstructor/TestHouse.java">
+    <entry file="file://$PROJECT_DIR$/src/classobjectmethod/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="437">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extra/UseScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
